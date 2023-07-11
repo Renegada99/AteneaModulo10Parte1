@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* padding: 20px; */
+    /* border-top: solid 10px;
+    border-left: solid 10px blue; */
+    background-image: url("img/fondo_numeros.jpg");
+    text-align: center;
+}
+
+form {
+    border: 5px solid #1732fc;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 30px;
+    background-color: rgba(153, 239, 202, 0.586);
+    height: 400px;
+    width: 600px;
+}
+
+label {
+    font-style: bold;
+}
+
+.campo_texto1 {
+    width: 230px;
+}
+
+.campo_texto2 {
+    width: 230px;
+
+}
